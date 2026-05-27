@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="screenshots/logo.svg" alt="Office Event Hub" width="280" />
+<img src="screenshots/office-event-hub-logo.svg" alt="Office Event Hub" width="100%" />
 
 # Office Event Hub
 
@@ -54,7 +54,7 @@ A web application for organizing and registering for events inside an office or 
 ![Upcoming events](screenshots/upcoming.png)
 
 *Event detail page with attendee list*
-![Event detail](screenshots/event-detail.png)
+![Event detail](screenshots/event-details.png)
 
 *Create event form*
 ![Create event](screenshots/create.png)
